@@ -1,4 +1,4 @@
-.header {
+header {
   background-color: #C8E3C1;
   height: 200px;
 }
@@ -8,7 +8,7 @@
   height: 600px;
 }
 
-.footer {
+footer {
   background-color: #E5CE94;
   height: 300px;
 }
